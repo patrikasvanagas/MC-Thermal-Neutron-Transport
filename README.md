@@ -4,13 +4,13 @@
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <figure style="width: fit-content;">
-        <img src="./animations/reflection.gif" width="250" height="250" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, .2);"/>
+        <img src="./animations/reflection.gif" width="200" height="200" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, .2);"/>
     </figure>
     <figure style="width: fit-content;">
-        <img src="./animations/absorption.gif" width="250" height="250" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, .2);"/>
+        <img src="./animations/absorption.gif" width="200" height="200" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, .2);"/>
     </figure>
     <figure style="width: fit-content;">
-        <img src="./animations/transmission.gif" width="250" height="250" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, .2);"/>
+        <img src="./animations/transmission.gif" width="200" height="200" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, .2);"/>
     </figure>
 </div>
 
